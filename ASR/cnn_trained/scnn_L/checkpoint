@@ -1,0 +1,2 @@
+model_checkpoint_path: "scnn_L"
+all_model_checkpoint_paths: "scnn_L"
